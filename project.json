@@ -1,0 +1,10 @@
+{
+    "name": "Aidan1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Aidan1.xml",
+    "author": "Ayziak",
+    "minimum_firmware_version": 42
+}
